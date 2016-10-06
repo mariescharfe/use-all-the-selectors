@@ -22,8 +22,8 @@ h2 {
   color: #93a1a1;
 }
 
-.wrapper > .dfn {
-  color: #b58900;
+.wrapper .dfn {
+  background-color: #b58900;
 }
 
 .dfn + strong {
@@ -34,7 +34,7 @@ html header h1 ul li mark {
   background-color: #719e07;
 }
 
-li > .external {
+li .external {
   background-color: #2694d8;
 }
 
